@@ -1,0 +1,2 @@
+C:/Users/nurne/Documents/beauty_salon/android/app/.cxx/RelWithDebInfo/1v5543u3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/nurne/Documents/beauty_salon/android/app/.cxx/RelWithDebInfo/1v5543u3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
