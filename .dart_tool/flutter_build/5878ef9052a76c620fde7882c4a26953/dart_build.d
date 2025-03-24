@@ -1,0 +1,1 @@
+ C:\\Users\\nurne\\Documents\\beauty_salon\\.dart_tool\\flutter_build\\5878ef9052a76c620fde7882c4a26953\\dart_build_result.json: 
